@@ -92,7 +92,7 @@ def main():
 
     elif choices == 'Credits':
         st.write(
-            "Application Developed by Abhishek Tripathi, Aman Verma, Manvendra Pratap Singh.")
+            "Application Developed by Nur Rokhman.")
 
 
 if __name__ == '__main__':
